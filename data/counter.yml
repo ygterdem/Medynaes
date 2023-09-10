@@ -1,0 +1,8 @@
+enable : true
+heading : "Some Accomplishments"
+counter_item: 
+  - title: "Total Players"
+    number: "1600"
+
+  - title: "Projects Completed"
+    number: "4"
