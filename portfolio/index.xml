@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Making Enhanced &lt;span&gt;Games&lt;/span&gt; for Webgl &amp; Yandex &lt;span&gt;Games&lt;/span&gt; on Medynaes</title>
-    <link>https://ygterdem.github.io/Medynaes/portfolio/</link>
+    <link>https://ygterdem.github.io/medynaes/portfolio/</link>
     <description>Recent content in Making Enhanced &lt;span&gt;Games&lt;/span&gt; for Webgl &amp; Yandex &lt;span&gt;Games&lt;/span&gt; on Medynaes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://ygterdem.github.io/Medynaes/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://ygterdem.github.io/medynaes/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just 2048</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/just2048/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/just2048/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/just2048/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/just2048/</guid>
       <description>Play
 Are you ready to join the numbers and reach the elusive 2048 tile? This game is the perfect solution for you with our addictive and challenging Just 2048 game.</description>
     </item>
     
     <item>
       <title>MineValley</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/minevalley/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/minevalley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/minevalley/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/minevalley/</guid>
       <description>Play
 Mine Valley is a spaceminer Like game, developed for Webgl and Yandex Games
 The game features a grid of squares that hide either a mine or a safe spot.</description>
@@ -30,10 +30,10 @@ The game features a grid of squares that hide either a mine or a safe spot.</des
     
     <item>
       <title>Strat Bomber</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/stratbomber/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/stratbomber/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</guid>
       <description>Play
 Strat Bomber is an exciting WebGL game that takes players on a thrilling adventure filled with bombs, explosions, and strategy.
 In this game, up to four players can compete locally on the same keyboard.</description>

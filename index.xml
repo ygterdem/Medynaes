@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medynaes</title>
-    <link>https://ygterdem.github.io/Medynaes/</link>
+    <link>https://ygterdem.github.io/medynaes/</link>
     <description>Recent content on Medynaes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ygterdem.github.io/Medynaes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ygterdem.github.io/medynaes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working On Space Miner Tycoon</title>
-      <link>https://ygterdem.github.io/Medynaes/blog/spaceminertycoon/</link>
+      <link>https://ygterdem.github.io/medynaes/blog/spaceminertycoon/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/blog/spaceminertycoon/</guid>
+      <guid>https://ygterdem.github.io/medynaes/blog/spaceminertycoon/</guid>
       <description>This game looking familiar(!) Yea i like boring games. now I Like making them too. Space Miner Tycoon is a strategy game, basic purpose is the improve your stats to be a better miner.</description>
     </item>
     
     <item>
       <title>Just 2048</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/just2048/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/just2048/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/just2048/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/just2048/</guid>
       <description>Play
 Are you ready to join the numbers and reach the elusive 2048 tile? This game is the perfect solution for you with our addictive and challenging Just 2048 game.</description>
     </item>
     
     <item>
       <title>MineValley</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/minevalley/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/minevalley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/minevalley/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/minevalley/</guid>
       <description>Play
 Mine Valley is a spaceminer Like game, developed for Webgl and Yandex Games
 The game features a grid of squares that hide either a mine or a safe spot.</description>
@@ -39,10 +39,10 @@ The game features a grid of squares that hide either a mine or a safe spot.</des
     
     <item>
       <title>Strat Bomber</title>
-      <link>https://ygterdem.github.io/Medynaes/portfolio/stratbomber/</link>
+      <link>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygterdem.github.io/Medynaes/portfolio/stratbomber/</guid>
+      <guid>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</guid>
       <description>Play
 Strat Bomber is an exciting WebGL game that takes players on a thrilling adventure filled with bombs, explosions, and strategy.
 In this game, up to four players can compete locally on the same keyboard.</description>
