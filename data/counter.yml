@@ -5,4 +5,7 @@ counter_item:
     number: "1600"
 
   - title: "Projects Completed"
-    number: "4"
+    number: "3"
+
+  - title: "Current Working"
+    number: "1"
