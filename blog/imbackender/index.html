@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
-  <title>Making Enhanced &lt;span&gt;Games&lt;/span&gt; for Webgl &amp; Yandex &lt;span&gt;Games&lt;/span&gt;</title>
+  <title>IMBACKENDER</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -87,73 +87,24 @@
 </nav>
 <main>
 
-<section class="site-project-header">
+<section class="site-blog details">
   <div class="container">
-    <div class="row align-items-center">
+    <div class="row justify-content-center">
       <div class="col-lg-8">
-        <div class="site-project-header-content">
-          <h1>
-            Making Enhanced <span>Games</span> for Webgl & Yandex <span>Games</span>
-          </h1>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <a href="#project" class="site-project-header-action scroll-to">
-          <span>Scroll Down</span>
-          <img src="https://ygterdem.github.io/medynaes/images/arrow-down.svg" alt="arrow-down">
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
+        <article class="site-blog-details">
+          <p><span>September 10, 2023</span> by <span>Erdem YİĞİT</span></p>
+          <h2 class="blog-title">IMBACKENDER</h2>
+          <img class="feature-image" src="https://ygterdem.github.io/medynaes/images/blog/MUID.png" alt="blog-feature-image">
+          <h3 id="making-games-connected">Making games Connected(!)</h3>
+<p>Im trying to make my own currency for all MEDYNAES games. Players can gain Medynaesium on every games and spend on every games. In Yandex Games SDK defining the user is a hard job, at least for me it was. Players dont have a Identifier for us to reach. Every player has a &ldquo;Unique ID&rdquo; but unique ids are unique(!) for every game. So identifying player for 2 game is not easy.</p>
+<p>There is a function called &ldquo;getIDsPerGame&rdquo; which returns an array of object that filled with userID&rsquo;s from games that same developer made.</p>
+<p>So I had to use this. I get the App ID&rsquo;s and Unique User IDs. Player Creates a database entry on first time when plays my game and adds all the data to that entry. Then if same user playes my another game, players unique id will be on the db for that game. We check if is exist or not. If is we get the MUID for sync the currency if not we create another database entry.</p>
+<p>In the moment there is a problem that i didnt found a solution. If player dont have data on the other games, first entry will be the only the current games unique id. Because of that if player play my other games. Unique id will not be exist on the db.</p>
+<p>Thats the problem im currently working on.</p>
+<p>seia.</p>
+<p>for more information Join the <strong><a href="%22https://discord.com/invite/6j4KjH7ygV%22">Discord</a></strong></p>
 
-<section class="site-project" id="project">
-  <div class="container">
-    <div class="row">
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <img src="https://ygterdem.github.io/medynaes/images/projects/2048.png" alt="project-thumb">
-          </div>
-          <div class="site-project-item-content">
-            <span>Webgl-Yandex</span>
-            <h3>Just 2048</h3>
-            <a href="https://ygterdem.github.io/medynaes/portfolio/just2048/" class="read-more">view project</a>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <img src="https://ygterdem.github.io/medynaes/images/projects/minevalley.jpg" alt="project-thumb">
-          </div>
-          <div class="site-project-item-content">
-            <span>Webgl-Yandex</span>
-            <h3>MineValley</h3>
-            <a href="https://ygterdem.github.io/medynaes/portfolio/minevalley/" class="read-more">view project</a>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <img src="https://ygterdem.github.io/medynaes/images/projects/stratbomber.png" alt="project-thumb">
-          </div>
-          <div class="site-project-item-content">
-            <span>Webgl-Yandex</span>
-            <h3>Strat Bomber</h3>
-            <a href="https://ygterdem.github.io/medynaes/portfolio/stratbomber/" class="read-more">view project</a>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-12">
-        <div class="site-project-pagination">
-          
-        </div>
+        </article>
       </div>
     </div>
   </div>

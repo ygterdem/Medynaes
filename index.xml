@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ygterdem.github.io/medynaes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>IMBACKENDER</title>
+      <link>https://ygterdem.github.io/medynaes/blog/imbackender/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ygterdem.github.io/medynaes/blog/imbackender/</guid>
+      <description>Making games Connected(!) Im trying to make my own currency for all MEDYNAES games. Players can gain Medynaesium on every games and spend on every games.</description>
+    </item>
+    
+    <item>
       <title>Working On Space Miner Tycoon</title>
       <link>https://ygterdem.github.io/medynaes/blog/spaceminertycoon/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
