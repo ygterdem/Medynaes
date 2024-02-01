@@ -34,37 +34,5 @@
       <description>This game looking familiar(!) Yea i like boring games. now I Like making them too. Space Miner Tycoon is a strategy game, basic purpose is the improve your stats to be a better miner.</description>
     </item>
     
-    <item>
-      <title>Just 2048</title>
-      <link>https://ygterdem.github.io/medynaes/portfolio/just2048/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ygterdem.github.io/medynaes/portfolio/just2048/</guid>
-      <description>Play
-Are you ready to join the numbers and reach the elusive 2048 tile? This game is the perfect solution for you with our addictive and challenging Just 2048 game.</description>
-    </item>
-    
-    <item>
-      <title>MineValley</title>
-      <link>https://ygterdem.github.io/medynaes/portfolio/minevalley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ygterdem.github.io/medynaes/portfolio/minevalley/</guid>
-      <description>Play
-Mine Valley is a spaceminer Like game, developed for Webgl and Yandex Games
-The game features a grid of squares that hide either a mine or a safe spot.</description>
-    </item>
-    
-    <item>
-      <title>Strat Bomber</title>
-      <link>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ygterdem.github.io/medynaes/portfolio/stratbomber/</guid>
-      <description>Play
-Strat Bomber is an exciting WebGL game that takes players on a thrilling adventure filled with bombs, explosions, and strategy.
-In this game, up to four players can compete locally on the same keyboard.</description>
-    </item>
-    
   </channel>
 </rss>
