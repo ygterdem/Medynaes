@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : "Some Accomplishments"
 counter_item: 
   - title: "Total Players"

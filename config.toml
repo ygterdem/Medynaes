@@ -38,12 +38,12 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/Haydar.png"
-    heading               = "Creating Games For WebGL"
+    heading               = "Creating Games"
     tagline               = "MECHANICS DYNAMICS AESTHETICS"
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Play On Yandex Games"
-    secondary_button_url  = "https://yandex.com/games/developer?name=ErdemY#"
+    primary_button        = "Linkedin"
+    primary_button_url    = "https://www.linkedin.com/in/ygterdem/"
+    # secondary_button      = "Play On Yandex Games"
+    # secondary_button_url  = "https://yandex.com/games/developer?name=ErdemY#"
 
 
   [params.footer]
